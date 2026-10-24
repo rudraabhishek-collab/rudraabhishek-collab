@@ -69,16 +69,6 @@
 
 ---
 
-<h2 align="center">Contribution Activity</h2>
-
-<div align="center">
-
-<img src="./year.svg" alt="GitHub contribution activity" width="100%" />
-
-</div>
-
----
-
 <h2 align="center">Open Source Contributions</h2>
 
 <div align="center">
