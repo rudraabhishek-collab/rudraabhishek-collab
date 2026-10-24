@@ -2,7 +2,7 @@
 <rect width="760" height="142" fill="#0b0b0b"/>
 <g font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="12">
 <text x="24.00" y="27.00" fill="#777777" font-size="11" font-weight="normal">CONTRIBUTIONS / LAST 365 UTC DAYS</text>
-<text x="24.00" y="80.00" fill="#d4d4d4" font-size="42" font-weight="bold">228</text>
+<text x="24.00" y="80.00" fill="#d4d4d4" font-size="42" font-weight="bold">230</text>
 <text x="26.00" y="104.00" fill="#777777" font-size="10" font-weight="normal">2025-10-25  →  2026-10-24</text>
 <rect x="371.87" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
 <rect x="469.83" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
@@ -24,7 +24,7 @@
 <rect x="701.38" y="103.00" width="6.91" height="3.00" fill="#d4d4d4"/>
 <rect x="710.28" y="103.00" width="6.91" height="3.00" fill="#d4d4d4"/>
 <rect x="719.19" y="97.00" width="6.91" height="9.00" fill="#d4d4d4"/>
-<rect x="728.09" y="94.00" width="6.91" height="12.00" fill="#d4d4d4"/>
+<rect x="728.09" y="91.00" width="6.91" height="15.00" fill="#d4d4d4"/>
 <text x="265.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">WEEKLY TOTALS</text>
 <text x="735.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">44</text>
 </g>
