@@ -63,7 +63,6 @@
 
 <img src="./stats.svg" alt="GitHub statistics" width="100%" />
 <img src="./streak.svg" alt="GitHub contribution streak" width="100%" />
-<img src="./langs.svg" alt="Most-used programming languages" width="100%" />
 
 </div>
 
