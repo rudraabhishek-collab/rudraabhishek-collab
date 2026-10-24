@@ -63,7 +63,7 @@ def header():
 
 # ---------------------------------------------------------------- about card
 def about():
-    W, H = 760, 232
+    W, H = 760, 206
     code = [
         ("const", "rudra", " = {"),
         None,
@@ -71,7 +71,6 @@ def about():
     rows = [
         '  location: "Pune, Maharashtra, India",',
         '  education: "B.Tech CSE · PW IOI, Pune",',
-        '  currentRole: "Frontend AI Eng. Intern",',
         '  focus: [',
         '    "AI / LLM Applications",',
         '    "Frontend (React, Next.js)",',
@@ -87,8 +86,6 @@ def about():
     b.append(t(32, 62 + len(rows) * 15, "};", 11, FG, "bold"))
     bullets = [
         "B.Tech CSE student, PW Institute of Innovation",
-        "Frontend AI Engineering Intern, FlyRank AI",
-        "Graphic Design Intern, Elite Coders Community",
         "ECSoc 2026 contributor · rank 97 of ~3,000",
         "AI for Sustainability intern, 1M1B x IBM SkillsBuild",
         "Exploring generative AI, NLP & LLM applications",
