@@ -51,7 +51,6 @@
 | **Krishify AI** | AI-powered sustainable agricultural marketplace connecting farmers with verified buyers to cut post-harvest food loss | Next.js · Tailwind CSS · Prisma · MySQL |
 | **CareQueue** | Smart healthcare queue management: symptom input, risk estimation, OPD tokens, severity-based prioritization | Top Finalist, ranked 5th, TCU Verse Hackathon |
 | **VoteGenie** | AI-assisted first-time voter assistant with candidate comparison, built with accessibility and responsible AI in mind | AI · Accessibility · Security |
-| **Nirogi-G1** | AI healthcare agent for conversational guidance and accessible user interaction | AI Agent |
 
 </div>
 
