@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="158" viewBox="0 0 760 158" role="img" aria-label="Current and longest contribution streaks">
+<rect width="760" height="158" fill="#0b0b0b"/>
+<g font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="12">
+<text x="24.00" y="27.00" fill="#777777" font-size="11" font-weight="normal">STREAKS</text>
+<text x="24.00" y="75.00" fill="#d4d4d4" font-size="36" font-weight="bold">3</text>
+<text x="24.00" y="96.00" fill="#777777" font-size="10" font-weight="normal">CURRENT DAYS</text>
+<text x="24.00" y="119.00" fill="#d4d4d4" font-size="10" font-weight="normal">2026-10-22 → 2026-10-24</text>
+<line x1="380" y1="42" x2="380" y2="132" stroke="#333"/>
+<text x="410.00" y="75.00" fill="#d4d4d4" font-size="36" font-weight="bold">10</text>
+<text x="410.00" y="96.00" fill="#777777" font-size="10" font-weight="normal">LONGEST DAYS</text>
+<text x="410.00" y="119.00" fill="#d4d4d4" font-size="10" font-weight="normal">2026-07-20 → 2026-07-29</text>
+</g>
+</svg>
