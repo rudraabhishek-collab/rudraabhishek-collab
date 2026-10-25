@@ -6,26 +6,26 @@
 <text x="24.00" y="80.00" fill="#d4d4d4" font-size="11" font-weight="normal">JavaScript</text>
 <rect x="170" y="70" width="340" height="9" fill="#333333"/>
 <rect x="170" y="70" width="340.00" height="9" fill="#d4d4d4"/>
-<text x="525.00" y="79.00" fill="#d4d4d4" font-size="10" font-weight="normal">1,020,404 B</text>
-<text x="650.00" y="79.00" fill="#777777" font-size="10" font-weight="normal">5 repos</text>
+<text x="525.00" y="79.00" fill="#d4d4d4" font-size="10" font-weight="normal">1,008,254 B</text>
+<text x="650.00" y="79.00" fill="#777777" font-size="10" font-weight="normal">4 repos</text>
 <text x="24.00" y="100.00" fill="#d4d4d4" font-size="11" font-weight="normal">HTML</text>
 <rect x="170" y="90" width="340" height="9" fill="#333333"/>
-<rect x="170" y="90" width="50.01" height="9" fill="#d4d4d4"/>
-<text x="525.00" y="99.00" fill="#d4d4d4" font-size="10" font-weight="normal">150,096 B</text>
-<text x="650.00" y="99.00" fill="#777777" font-size="10" font-weight="normal">3 repos</text>
+<rect x="170" y="90" width="48.67" height="9" fill="#d4d4d4"/>
+<text x="525.00" y="99.00" fill="#d4d4d4" font-size="10" font-weight="normal">144,343 B</text>
+<text x="650.00" y="99.00" fill="#777777" font-size="10" font-weight="normal">2 repos</text>
 <text x="24.00" y="120.00" fill="#d4d4d4" font-size="11" font-weight="normal">CSS</text>
 <rect x="170" y="110" width="340" height="9" fill="#333333"/>
-<rect x="170" y="110" width="21.98" height="9" fill="#d4d4d4"/>
-<text x="525.00" y="119.00" fill="#d4d4d4" font-size="10" font-weight="normal">65,960 B</text>
-<text x="650.00" y="119.00" fill="#777777" font-size="10" font-weight="normal">5 repos</text>
+<rect x="170" y="110" width="20.20" height="9" fill="#d4d4d4"/>
+<text x="525.00" y="119.00" fill="#d4d4d4" font-size="10" font-weight="normal">59,894 B</text>
+<text x="650.00" y="119.00" fill="#777777" font-size="10" font-weight="normal">4 repos</text>
 <text x="24.00" y="140.00" fill="#d4d4d4" font-size="11" font-weight="normal">Python</text>
 <rect x="170" y="130" width="340" height="9" fill="#333333"/>
-<rect x="170" y="130" width="8.66" height="9" fill="#d4d4d4"/>
+<rect x="170" y="130" width="8.76" height="9" fill="#d4d4d4"/>
 <text x="525.00" y="139.00" fill="#d4d4d4" font-size="10" font-weight="normal">25,981 B</text>
 <text x="650.00" y="139.00" fill="#777777" font-size="10" font-weight="normal">1 repos</text>
 <text x="24.00" y="160.00" fill="#d4d4d4" font-size="11" font-weight="normal">Shell</text>
 <rect x="170" y="150" width="340" height="9" fill="#333333"/>
-<rect x="170" y="150" width="0.49" height="9" fill="#d4d4d4"/>
+<rect x="170" y="150" width="0.50" height="9" fill="#d4d4d4"/>
 <text x="525.00" y="159.00" fill="#d4d4d4" font-size="10" font-weight="normal">1,468 B</text>
 <text x="650.00" y="159.00" fill="#777777" font-size="10" font-weight="normal">1 repos</text>
 <text x="24.00" y="180.00" fill="#d4d4d4" font-size="11" font-weight="normal">Dockerfile</text>
@@ -35,7 +35,7 @@
 <text x="650.00" y="179.00" fill="#777777" font-size="10" font-weight="normal">1 repos</text>
 <text x="24.00" y="200.00" fill="#d4d4d4" font-size="11" font-weight="normal">TypeScript</text>
 <rect x="170" y="190" width="340" height="9" fill="#333333"/>
-<rect x="170" y="190" width="0.16" height="9" fill="#d4d4d4"/>
+<rect x="170" y="190" width="0.17" height="9" fill="#d4d4d4"/>
 <text x="525.00" y="199.00" fill="#d4d4d4" font-size="10" font-weight="normal">494 B</text>
 <text x="650.00" y="199.00" fill="#777777" font-size="10" font-weight="normal">1 repos</text>
 <text x="24.00" y="230.00" fill="#777777" font-size="9" font-weight="normal">Scanned 6 most recently updated public, non-fork repositories (max 100).</text>

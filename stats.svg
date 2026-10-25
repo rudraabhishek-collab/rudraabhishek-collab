@@ -2,18 +2,17 @@
 <rect width="760" height="142" fill="#0b0b0b"/>
 <g font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="12">
 <text x="24.00" y="27.00" fill="#777777" font-size="11" font-weight="normal">CONTRIBUTIONS / LAST 365 UTC DAYS</text>
-<text x="24.00" y="80.00" fill="#d4d4d4" font-size="42" font-weight="bold">230</text>
+<text x="24.00" y="80.00" fill="#d4d4d4" font-size="42" font-weight="bold">221</text>
 <text x="26.00" y="104.00" fill="#777777" font-size="10" font-weight="normal">2025-10-26  →  2026-10-25</text>
 <rect x="371.87" y="104.78" width="6.91" height="1.22" fill="#d4d4d4"/>
 <rect x="469.83" y="103.56" width="6.91" height="2.44" fill="#d4d4d4"/>
 <rect x="487.64" y="101.11" width="6.91" height="4.89" fill="#d4d4d4"/>
 <rect x="558.89" y="102.33" width="6.91" height="3.67" fill="#d4d4d4"/>
 <rect x="576.70" y="102.33" width="6.91" height="3.67" fill="#d4d4d4"/>
-<rect x="585.60" y="96.22" width="6.91" height="9.78" fill="#d4d4d4"/>
 <rect x="603.42" y="44.89" width="6.91" height="61.11" fill="#d4d4d4"/>
 <rect x="612.32" y="66.89" width="6.91" height="39.11" fill="#d4d4d4"/>
 <rect x="621.23" y="84.00" width="6.91" height="22.00" fill="#d4d4d4"/>
-<rect x="630.13" y="91.33" width="6.91" height="14.67" fill="#d4d4d4"/>
+<rect x="630.13" y="95.00" width="6.91" height="11.00" fill="#d4d4d4"/>
 <rect x="639.04" y="40.00" width="6.91" height="66.00" fill="#d4d4d4"/>
 <rect x="647.94" y="101.11" width="6.91" height="4.89" fill="#d4d4d4"/>
 <rect x="656.85" y="90.11" width="6.91" height="15.89" fill="#d4d4d4"/>
@@ -22,6 +21,7 @@
 <rect x="701.38" y="103.56" width="6.91" height="2.44" fill="#d4d4d4"/>
 <rect x="710.28" y="103.56" width="6.91" height="2.44" fill="#d4d4d4"/>
 <rect x="719.19" y="86.44" width="6.91" height="19.56" fill="#d4d4d4"/>
+<rect x="728.09" y="103.56" width="6.91" height="2.44" fill="#d4d4d4"/>
 <text x="265.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">WEEKLY TOTALS</text>
 <text x="735.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">54</text>
 </g>
