@@ -3,27 +3,28 @@
 <g font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="12">
 <text x="24.00" y="27.00" fill="#777777" font-size="11" font-weight="normal">CONTRIBUTIONS / LAST 365 UTC DAYS</text>
 <text x="24.00" y="80.00" fill="#d4d4d4" font-size="42" font-weight="bold">221</text>
-<text x="26.00" y="104.00" fill="#777777" font-size="10" font-weight="normal">2025-10-31  →  2026-10-30</text>
-<rect x="362.96" y="104.43" width="6.91" height="1.57" fill="#d4d4d4"/>
-<rect x="469.83" y="102.86" width="6.91" height="3.14" fill="#d4d4d4"/>
-<rect x="478.74" y="102.86" width="6.91" height="3.14" fill="#d4d4d4"/>
-<rect x="487.64" y="102.86" width="6.91" height="3.14" fill="#d4d4d4"/>
-<rect x="549.98" y="104.43" width="6.91" height="1.57" fill="#d4d4d4"/>
-<rect x="558.89" y="102.86" width="6.91" height="3.14" fill="#d4d4d4"/>
-<rect x="567.79" y="101.29" width="6.91" height="4.71" fill="#d4d4d4"/>
+<text x="26.00" y="104.00" fill="#777777" font-size="10" font-weight="normal">2025-11-01  →  2026-10-31</text>
+<rect x="362.96" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
+<rect x="460.92" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
+<rect x="469.83" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
+<rect x="478.74" y="100.00" width="6.91" height="6.00" fill="#d4d4d4"/>
+<rect x="549.98" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
+<rect x="558.89" y="103.00" width="6.91" height="3.00" fill="#d4d4d4"/>
+<rect x="567.79" y="101.50" width="6.91" height="4.50" fill="#d4d4d4"/>
 <rect x="594.51" y="40.00" width="6.91" height="66.00" fill="#d4d4d4"/>
-<rect x="603.42" y="43.14" width="6.91" height="62.86" fill="#d4d4d4"/>
-<rect x="612.32" y="101.29" width="6.91" height="4.71" fill="#d4d4d4"/>
-<rect x="621.23" y="71.43" width="6.91" height="34.57" fill="#d4d4d4"/>
-<rect x="630.13" y="57.29" width="6.91" height="48.71" fill="#d4d4d4"/>
-<rect x="639.04" y="62.00" width="6.91" height="44.00" fill="#d4d4d4"/>
-<rect x="647.94" y="84.00" width="6.91" height="22.00" fill="#d4d4d4"/>
-<rect x="665.75" y="104.43" width="6.91" height="1.57" fill="#d4d4d4"/>
-<rect x="674.66" y="98.14" width="6.91" height="7.86" fill="#d4d4d4"/>
-<rect x="701.38" y="99.71" width="6.91" height="6.29" fill="#d4d4d4"/>
-<rect x="710.28" y="98.14" width="6.91" height="7.86" fill="#d4d4d4"/>
-<rect x="719.19" y="85.57" width="6.91" height="20.43" fill="#d4d4d4"/>
+<rect x="603.42" y="49.00" width="6.91" height="57.00" fill="#d4d4d4"/>
+<rect x="612.32" y="88.00" width="6.91" height="18.00" fill="#d4d4d4"/>
+<rect x="621.23" y="83.50" width="6.91" height="22.50" fill="#d4d4d4"/>
+<rect x="630.13" y="52.00" width="6.91" height="54.00" fill="#d4d4d4"/>
+<rect x="639.04" y="74.50" width="6.91" height="31.50" fill="#d4d4d4"/>
+<rect x="647.94" y="85.00" width="6.91" height="21.00" fill="#d4d4d4"/>
+<rect x="665.75" y="104.50" width="6.91" height="1.50" fill="#d4d4d4"/>
+<rect x="674.66" y="98.50" width="6.91" height="7.50" fill="#d4d4d4"/>
+<rect x="692.47" y="103.00" width="6.91" height="3.00" fill="#d4d4d4"/>
+<rect x="701.38" y="103.00" width="6.91" height="3.00" fill="#d4d4d4"/>
+<rect x="710.28" y="97.00" width="6.91" height="9.00" fill="#d4d4d4"/>
+<rect x="719.19" y="88.00" width="6.91" height="18.00" fill="#d4d4d4"/>
 <text x="265.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">WEEKLY TOTALS</text>
-<text x="735.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">42</text>
+<text x="735.00" y="125.00" fill="#777777" font-size="9" font-weight="normal">44</text>
 </g>
 </svg>
